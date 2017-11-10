@@ -1,0 +1,9 @@
+#demo1 {
+	font-family: 'Hack-Bold';
+	opacity: 0;
+}
+
+@font-face {
+	font-family :'Hack-Bold';
+	src : url('../font/Hack-Bold.ttf');
+}
